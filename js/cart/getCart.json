@@ -1,0 +1,23 @@
+{
+  "amount": 25600,
+  "countGoods": 3,
+  "contents": [{
+    "id_product": 111111,
+    "product_name": "Куртка муж удлиненная",
+    "quantity": 1,
+    "price": 7600,
+    "img_min": "images/cart-img/man-1.jpg",
+    "img_catalog": "images/mans-catalog/man-1.jpg",
+    "img_single": "images/mans-catalog/man-1.jpg"
+  },
+    {
+      "id_product": 111112,
+      "product_name": "Пиджак черн удлиненный",
+      "quantity": 2,
+      "price": 9000,
+      "img_min": "images/cart-img/man-2.jpg",
+      "img_catalog": "images/mans-catalog/man-2.jpg",
+      "img_single": "images/mans-catalog/man-2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[{
+    "id_product": 111111,
+    "product_name": "Куртка муж удлиненная",
+    "price": 7600,
+    "img_catalog": "images/mans-catalog/man-1.jpg",
+    "alt": "name"
+  },
+  {
+    "id_product": 111112,
+    "product_name": "Пиджак черн удлиненный Пиджак черн удлиненный",
+    "price": 9000,
+    "img_catalog": "images/mans-catalog/man-2.jpg",
+    "alt": "name"
+  },
+  {
+    "id_product": 111114,
+    "product_name": "Футболка с принтом черн-бел",
+    "price": 3500,
+    "img_catalog": "images/mans-catalog/man-4.jpg",
+    "alt": "name"
+  },
+  {
+    "id_product": 111116,
+    "product_name": "Толстовка цветная",
+    "price": 8500,
+    "img_catalog": "images/mans-catalog/man-6.jpg",
+    "alt": "name"
+  },
+  {
+    "id_product": 111118,
+    "product_name": "Куртка без капюшона",
+    "price": 10500,
+    "img_catalog": "images/mans-catalog/man-8.jpg",
+    "alt": "name"
+  },
+  {
+    "id_product": 111119,
+    "product_name": "Футболка с принтом син-бел",
+    "price": 3500,
+    "img_catalog": "images/mans-catalog/man-9.jpg",
+    "alt": "name"
+  },
+  {
+    "id_product": 111113,
+    "product_name": "Футболка black-red",
+    "price": 10000,
+    "img_catalog": "images/mans-catalog/man-6.jpg",
+    "alt": "name"
+  }
+]

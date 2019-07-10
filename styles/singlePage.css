@@ -1,0 +1,225 @@
+.carousel-indicators .active {
+    background-color: #f16d7f;
+}
+
+.describe-and-buy_form_buttons-position__column{
+    display: flex;
+    flex-direction: column;
+}
+
+.justify-content-center{
+    position: relative;
+    background-color: white;
+}
+
+#carouselExampleIndicators{
+border-color: #f16d7f;;
+}
+
+ .single-page-carousel img {
+    margin-bottom: 20px;
+} 
+
+.single-page-carousel div a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    font-family: Lato !important;
+    color:  #6f6e6e;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left; 
+    text-transform: uppercase;
+}
+
+.single-page-carousel a span{
+    margin-left: 13px;
+    margin-bottom: 15px;
+}
+
+.carousel-price-item{
+    color: #f16d7f;
+    margin-bottom: 0!important;
+    display: block!important;
+    position: absolute!important;
+    bottom: 0!important;
+    left: 0!important;
+}
+
+.owl-carousel{
+    width: 1138px;
+}
+
+.owl-item{
+    position: relative;
+    height: 309px;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #f16d7f;
+}
+
+.owl-nav button{
+    color: #f16d7f;
+    font-size: 20px;
+}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+    color: #f16d7f;
+    font-size: 30px;
+    font-weight: 700; 
+}
+
+.related-products-wraper{
+    padding: 0;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+    color: #f16d7f;
+    font-weight: 900;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+.carousel-indicators li {
+    background-color: lightgrey;
+}
+
+.owl-item:hover img {
+    filter: brightness(40%);
+    -webkit-filter: brightness(40%);
+}
+
+.single-page-carousel .add-to-cart-btn{
+    display: none;
+} 
+
+.owl-item:hover .add-to-cart-btn {
+    display: inline;
+}
+
+.flex-add {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 90px;
+    left: 44px;
+}
+.single-page-carousel div .add-to-cart-btn{
+     color: white;
+}
+
+ .flex-add-carousel {
+     display: flex;
+     justify-content: center;
+     position: absolute;
+     top: 80px;
+    left:44px;
+}
+.buy-position_form__btn{
+    border-style: solid;
+    border-width: 1px;
+    border-color:  #ef5b70;
+    box-sizing: border-box;
+    background-color:  #ffffff;
+    color: #ef5b70;
+    /* width: 537px; */
+    width: 80%;
+    height: 55px;
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+}
+.buy-position_form__btn:hover{
+    color:  #ffffff;
+    background-color:   #ef5b70;
+}
+.buy-position_form__btn img{
+    color:  #ef5b70;
+    width: 26px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.owl-theme .owl-nav {
+    margin-top: 0;
+}
+
+.carousel-caption{
+    color: #ef5b70;
+        position: absolute;
+        right: 0px;
+        bottom: 10px;
+        left: 0px;
+        z-index: 1;
+        display: flex;
+        justify-content: center;
+        padding-left: 0px;
+        margin-right: 15%;
+        margin-left: 15%;
+        list-style: none;
+
+}
+
+.describe-and-buy__text-position h2{
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+
+.describe-and-buy_qualities{
+    display: flex; 
+    flex-direction: row; 
+}
+
+.describe-and-buy__single-qualitiy{
+    width: 50%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+.describe-and-buy_single-qualitiy__title{
+    color:  #b9b9b9;
+}
+.describe-and-buy-position__price{
+color:  #ef5b70;
+font-size: 24px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+line-height: 24px;/* Приближение из-за подстановки шрифтов */
+text-align: center;
+margin-bottom: 40px;
+}
+.describe-and-buy__line{
+    height: 1px;
+    width: 100%;
+    background-color: #b9b9b9;
+    margin-bottom: 55px;
+}
+.describe-and-buy_form_buttons-position__column{
+    color:  #2f2f2f;
+    font-size: 14px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 24px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.describe-and-buy_form__buttons-position{
+    margin-bottom: 20px;
+}
+.describe-and-buy_form_buttons-position__column div{
+    margin-bottom: 10px;
+}
+
+.section-related-products > div{
+    color:  #4d4d4d;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 20px;
+    text-transform: uppercase;
+    margin-bottom: 70px;
+}
+

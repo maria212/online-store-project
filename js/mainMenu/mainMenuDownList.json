@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Women",
+        "name": "women",
+        "items": [
+            {
+                "title": "Dresses",
+                "name": "dresses",
+                "items": null
+            },
+            {
+                "title": "Tops",
+                "name": "tops",
+                "items": null
+            },
+            {
+                "title": "Sweaters/Knits",
+                "name": "sweaters/knits",
+                "items": null
+            },
+            {
+                "title": "Jackets/Coats",
+                "name": "jackets/coats",
+                "items": null
+            },
+            {
+                "title": "Blazers",
+                "name": "blazers",
+                "items": null
+            },
+            {
+                "title": "Denim",
+                "name": "denim",
+                "items": null
+            },
+            {
+                "title": "Leggings/Pants",
+                "name": "leggings/pants",
+                "items": null
+            },
+            {
+                "title": "Skirts/Shorts",
+                "name": "skirts/shorts",
+                "items": null
+            },
+            {
+                "title": "Accessories",
+                "name": "accessories",
+                "items": null
+            }
+        ]
+    },
+    {
+        "title": "Man",
+        "name": "man",
+        "items": [
+            {
+                "title": "Polos",
+                "name": "polos",
+                "items": null
+            },
+            {
+                "title": "Suits",
+                "name": "suits",
+                "items": null
+            },
+            {
+                "title": "Shorts",
+                "name": "shorts",
+                "items": null
+            },
+            {
+                "title": "Jeans",
+                "name": "jeans",
+                "items": null
+            },
+            {
+                "title": "Sweaters",
+                "name": "sweaters",
+                "items": null
+            },
+            {
+                "title": "T-shorts",
+                "name": "t-shorts",
+                "items": null
+            }
+        ]
+    },
+    {
+        "title": "Kids",
+        "name": "kids",
+        "items": null
+    }
+]
